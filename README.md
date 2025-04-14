@@ -51,6 +51,8 @@ After the prototype was validated, I migrated the solution to **Azure Cloud**, l
 
 I developed a **FastAPI** application to facilitate the migration of files from **Azure Blob Storage** to **Azure Data Lake Gen 2**. The FastAPI app serves as the bridge to upload and manage the data migration process, simulating a modern cloud migration workflow.
 
+https://dbmigrationapi-e9a8hzbve7arercr.canadacentral-01.azurewebsites.net/docs/
+
 ![Architecture Diagram](images/fastApi_Upload.png)
 
 This API ensures secure, efficient, and seamless migration of files while maintaining the same format between the source and destination storage systems.
@@ -119,4 +121,4 @@ Moreover, Delta Logs were generated in Delta Lake to ensure data traceability an
 
 ![Architecture Diagram](images/Graphic_secondQuery.png)
 
-Thanks!
+Thanks! - This solution expired april 21 2025. https://portal.azure.com/?azure-portal=true#@asechin2007gmail.onmicrosoft.com/resource/subscriptions/9fa511ec-9dbc-4692-bec8-319953d99c06/resourceGroups/APIforDBmigration/overview
