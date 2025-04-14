@@ -14,7 +14,7 @@ The architecture of the project is divided into three main layers:
 
 ### Architecture Diagram
 
-![Architecture Diagram](images/Arquitectura_Solution.png)
+![Architecture Diagram](images/Arquitecture_Solution.png)
 
 ---
 
